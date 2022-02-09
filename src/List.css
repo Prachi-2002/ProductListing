@@ -1,0 +1,16 @@
+.Container{
+    display: flex;
+    flex-wrap: wrap;
+    width:100%;
+    
+
+}
+.ChidElem{
+    /* flex-wrap: wrap; */
+    width:300px;
+    height:200px;
+    margin-left:15px;
+    margin-bottom: 15px;
+    padding: 5px;
+    border: 2px solid red;
+}

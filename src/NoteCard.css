@@ -1,0 +1,12 @@
+.Container{
+    display: flex;
+}
+.CardComponent{
+    width:400px;
+    height:150px;
+    margin-left: 25px;
+    margin-right: 35px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+}

@@ -1,0 +1,13 @@
+.search-content{
+    padding: 10px;
+    font-size: 18px;
+    width:50%;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    border-radius: 10px;
+}
+.Search-app{
+    display: flex;
+    justify-content: center;
+
+}
